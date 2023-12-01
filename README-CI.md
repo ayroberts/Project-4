@@ -38,7 +38,6 @@
 
 [Image]  
  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
 
 # Part 2
 
@@ -107,5 +106,3 @@ jobs:
           docker build -t obeyeddog/project-4-website:latest .
           docker push obeyeddog/project-4-website:latest
 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
