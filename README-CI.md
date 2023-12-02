@@ -89,5 +89,5 @@ Setting a Secret:
 
 # Part 3  
   
-![Image](/img/flow.PNG) 
+![Image](/img/flow.png) 
 
