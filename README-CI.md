@@ -9,7 +9,7 @@
 - ```curl -fsSL https://get.docker.com -o get-docker.sh```  
 - ```sudo sh get-docker.sh```
 
-[Image](/img/d1.PNG)
+![Image](/img/d1.PNG)
 
 ## Create a container image that will run a webserver and contains your website   
   
