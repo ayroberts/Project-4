@@ -37,7 +37,7 @@
   
 ### Now go to http://localhost:8080/ and boom:  
 
-![Image](/img/d1.PNG)  
+![Image](/img/d4.PNG)  
 
 
 # Part 2
