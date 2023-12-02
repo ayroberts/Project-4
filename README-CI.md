@@ -72,16 +72,20 @@ docker push obeyeddog/project-4-website
 ## Enter credentials, push container image  
 
 ```docker login --username=obeyeddog```  
-```docker tag local-image-name obeyeddog/project-4-website:p4```
+```docker tag local-image-name obeyeddog/project-4-website:p4```  
 ```docker push obeyeddog/project-4-website:p4```
 
 ## Making a secret:  
 
 Setting a Secret:
-	Navigate to your GitHub repository.
-        Go to "Settings" > "Secrets".
-        Click on "New repository secret" 
-	Add a secret with the name DOCKER_USERNAME and set its value to your DockerHub username.
+	Navigate to your GitHub repository.  
+
+        Go to "Settings" > "Secrets".  
+
+        Click on "New repository secret"  
+
+	Add a secret with the name DOCKER_USERNAME and set its value to your DockerHub username.  
+
 	Add another secret with the name DOCKER_PASSWORD and set its value to your DockerHub password or an access token.
 
 # Part 3  
