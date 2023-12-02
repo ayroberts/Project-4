@@ -64,19 +64,16 @@
 docker tag local-image-name username/repository-name
 ```  
 
-# Push the tagged image to Docker Hub 
+## Push the tagged image to Docker Hub 
 ```
-docker push username/repository-name
+docker push obeyeddog/project-4-website
 ```  
-
-Replace local-image-name with the name of your local Docker image and username/repository-name with your Docker Hub username and repository name.
 
 ## Enter credentials, push container image  
 
 ```docker login --username=obeyeddog```  
-  
-docker tag local-image-name obeyeddog/project-4-website:p4
-docker push obeyeddog/project-4-website:p4
+```docker tag local-image-name obeyeddog/project-4-website:p4```
+```docker push obeyeddog/project-4-website:p4```
 
 ## Making a secret:  
 
