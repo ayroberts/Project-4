@@ -28,16 +28,17 @@
 ## Build Docker image  
 - ```docker build -t website .```  
 
-[Image]
-[Image]
+![Image](/img/d2.PNG)  
+
+![Image](/img/d3.PNG)
 
 ## Run Container  
 - ```sudo docker run -d -p 8080:80 --name website-container website```
   
 ### Now go to http://localhost:8080/ and boom:  
 
-[Image]  
- 
+![Image](/img/d1.PNG)  
+
 
 # Part 2
 
